@@ -1,0 +1,14 @@
+{
+    "name": "klaeesd",
+    "description": "klaeesd",
+    "logo":"klaeesd",
+    "keywords": ["klaeesd"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/outpo/klaeesd",
+    "stack": "container"
+}
